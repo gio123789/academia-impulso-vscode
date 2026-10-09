@@ -1,0 +1,10 @@
+{
+  "description": "Create and manage customizable views for data visualization, enabling users to analyze and present information effectively.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
